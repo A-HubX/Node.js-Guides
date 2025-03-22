@@ -1,4 +1,3 @@
-Node.js Streams
 Node.js streams are a powerful way to handle large amounts of data efficiently. They allow you to process data as it is being read or written, rather than loading it all into memory at once.
 
 Types of Streams:
